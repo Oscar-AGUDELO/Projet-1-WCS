@@ -1,1 +1,1 @@
-# Oscar-AGUDELO-Projet-1-WCS
+# Projet-1-WCS
