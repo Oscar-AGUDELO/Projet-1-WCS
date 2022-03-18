@@ -2,6 +2,8 @@
 
 Salut à tous
 
+<<<<<<< HEAD
 
 
 Je modifie le readme
+
